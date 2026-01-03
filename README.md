@@ -7,5 +7,5 @@ The user enters the list elements and chooses the sorting order.
 - Lists
 - Loops
 - Conditional statements
-This program was written while practicing Python list operations.
+
 
